@@ -1,7 +1,9 @@
-[
-  {
-      "id" : 1,
-      "name" : "BebasNeue",
-      "url" : "https://github.com/Surajkrmkr/MIUI-Editor/raw/master/fonts/BebasNeue-Regular.otf"
-  }
-]
+{
+    "fonts": [
+        {
+            "id": 1,
+            "name": "BebasNeue",
+            "url": "https://github.com/Surajkrmkr/MIUI-Editor/raw/master/fonts/BebasNeue-Regular.otf"
+        }
+    ]
+}
