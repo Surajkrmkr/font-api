@@ -29,6 +29,11 @@
             "id": 6,
             "name": "Monofonto",
             "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/monofonto%20rg.otf"
+        },
+        {
+            "id": 7,
+            "name": "Qualy",
+            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/Qualy.ttf"
         }
     ]
 }
