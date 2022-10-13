@@ -21,9 +21,14 @@
             "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/big_noodle_titling.ttf"
         },
         {
-            "id": 4,
+            "id": 5,
             "name": "Kenyan Coffee",
             "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/kenyan%20coffee%20bd.ttf"
+        },
+        {
+            "id": 6,
+            "name": "Monofonto",
+            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/monofonto%20rg.otf"
         }
     ]
 }
