@@ -34,6 +34,16 @@
             "id": 7,
             "name": "Qualy",
             "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/Qualy.ttf"
+        },
+        {
+            "id": 8,
+            "name": "Chewie",
+            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/Chewie.otf"
+        },
+        {
+            "id": 9,
+            "name": "Glaster",
+            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/GLASTER.otf"
         }
     ]
 }
