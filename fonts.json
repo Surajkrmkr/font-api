@@ -44,6 +44,21 @@
             "id": 9,
             "name": "Glaster",
             "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/GLASTER.otf"
+        },
+        {
+            "id": 10,
+            "name": "Dark Seed",
+            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/DarkSeed.otf"
+        },
+        {
+            "id": 11,
+            "name": "Haunted Mouse",
+            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/HauntedMouse.ttf"
+        },
+        {
+            "id": 12,
+            "name": "One Slice",
+            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/OneSlice.otf"
         }
     ]
 }
