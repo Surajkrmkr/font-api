@@ -59,6 +59,36 @@
             "id": 12,
             "name": "One Slice",
             "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/OneSlice.otf"
+        },
+        {
+            "id": 13,
+            "name": "CrazyDots",
+            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/CrazyDots.otf"
+        },
+        {
+            "id": 14,
+            "name": "CreamCake",
+            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/CreamCake.otf"
+        },
+        {
+            "id": 15,
+            "name": "Hunters",
+            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/Hunters.otf"
+        },
+        {
+            "id": 16,
+            "name": "Mythias",
+            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/Mythias.otf"
+        },
+        {
+            "id": 17,
+            "name": "SpaceTime",
+            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/SpaceTime.ttf"
+        },
+        {
+            "id": 18,
+            "name": "Woodtrap",
+            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/Woodtrap.ttf"
         }
     ]
 }
