@@ -1,94 +1,109 @@
 {
-    "fonts": [
-        {
-            "id": 1,
-            "name": "BebasNeue",
-            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/BebasNeue-Regular.otf"
-        },
-        {
-            "id": 2,
-            "name": "BebasKai",
-            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/BebasKai.otf"
-        },
-        {
-            "id": 3,
-            "name": "GoBold",
-            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/Gobold%20High%20Bold.otf"
-        },
-        {
-            "id": 4,
-            "name": "Big Noodle",
-            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/big_noodle_titling.ttf"
-        },
-        {
-            "id": 5,
-            "name": "Kenyan Coffee",
-            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/kenyan%20coffee%20bd.ttf"
-        },
-        {
-            "id": 6,
-            "name": "Monofonto",
-            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/monofonto%20rg.otf"
-        },
-        {
-            "id": 7,
-            "name": "Qualy",
-            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/Qualy.ttf"
-        },
-        {
-            "id": 8,
-            "name": "Chewie",
-            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/Chewie.otf"
-        },
-        {
-            "id": 9,
-            "name": "Glaster",
-            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/GLASTER.otf"
-        },
-        {
-            "id": 10,
-            "name": "Dark Seed",
-            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/DarkSeed.otf"
-        },
-        {
-            "id": 11,
-            "name": "Haunted Mouse",
-            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/HauntedMouse.ttf"
-        },
-        {
-            "id": 12,
-            "name": "One Slice",
-            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/OneSlice.otf"
-        },
-        {
-            "id": 13,
-            "name": "CrazyDots",
-            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/CrazyDots.otf"
-        },
-        {
-            "id": 14,
-            "name": "CreamCake",
-            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/CreamCake.otf"
-        },
-        {
-            "id": 15,
-            "name": "Hunters",
-            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/Hunters.otf"
-        },
-        {
-            "id": 16,
-            "name": "Mythias",
-            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/Mythias.otf"
-        },
-        {
-            "id": 17,
-            "name": "SpaceTime",
-            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/SpaceTime.ttf"
-        },
-        {
-            "id": 18,
-            "name": "Woodtrap",
-            "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/Woodtrap.ttf"
-        }
-    ]
+  "fonts": [
+    {
+      "id": 1,
+      "name": "BebasNeue",
+      "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/BebasNeue-Regular.otf"
+    },
+    {
+      "id": 2,
+      "name": "BebasKai",
+      "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/BebasKai.otf"
+    },
+    {
+      "id": 3,
+      "name": "GoBold",
+      "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/Gobold%20High%20Bold.otf"
+    },
+    {
+      "id": 4,
+      "name": "Big Noodle",
+      "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/big_noodle_titling.ttf"
+    },
+    {
+      "id": 5,
+      "name": "Kenyan Coffee",
+      "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/kenyan%20coffee%20bd.ttf"
+    },
+    {
+      "id": 6,
+      "name": "Monofonto",
+      "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/monofonto%20rg.otf"
+    },
+    {
+      "id": 7,
+      "name": "Qualy",
+      "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/Qualy.ttf"
+    },
+    {
+      "id": 8,
+      "name": "Chewie",
+      "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/Chewie.otf"
+    },
+    {
+      "id": 9,
+      "name": "Glaster",
+      "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/GLASTER.otf"
+    },
+    {
+      "id": 10,
+      "name": "Dark Seed",
+      "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/DarkSeed.otf"
+    },
+    {
+      "id": 11,
+      "name": "Haunted Mouse",
+      "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/HauntedMouse.ttf"
+    },
+    {
+      "id": 12,
+      "name": "One Slice",
+      "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/OneSlice.otf"
+    },
+    {
+      "id": 13,
+      "name": "CrazyDots",
+      "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/CrazyDots.otf"
+    },
+    {
+      "id": 14,
+      "name": "CreamCake",
+      "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/CreamCake.otf"
+    },
+    {
+      "id": 15,
+      "name": "Hunters",
+      "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/Hunters.otf"
+    },
+    {
+      "id": 16,
+      "name": "Mythias",
+      "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/Mythias.otf"
+    },
+    {
+      "id": 17,
+      "name": "SpaceTime",
+      "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/SpaceTime.ttf"
+    },
+    {
+      "id": 18,
+      "name": "Woodtrap",
+      "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/Woodtrap.ttf"
+    },
+    {
+      "id": 19,
+      "name": "Atomic",
+      "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/Atomic.otf"
+    },
+    {
+      "id": 20,
+      "name": "Searock",
+      "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/Searock.ttf"
+    },
+    {
+      "id": 21,
+      "name": "World",
+      "url": "https://github.com/Surajkrmkr/font-api/raw/main/fonts/World.ttf"
+    }
+  ]
 }
